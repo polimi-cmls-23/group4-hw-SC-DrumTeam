@@ -15,8 +15,8 @@ The goal of this project is to implement a multi effect able to manage Flanger, 
 The code applies the effects on a wav file but the user can use their own input devices by uncommenting the line:
 
 // sig = PlayBuf.ar(2, b, loop:1); // play the sample signal
-// sig = sig*0.5;
-sig = SoundIn.ar(0,2); // use the input device
+<br> // sig = sig*0.5;
+<br> sig = SoundIn.ar(0,2); // use the input device
 
 The user can control some parameters for each effect, as well as the order of the three effects through “Move Before” and “Move After” buttons and also which effect to bypass or not by clicking on the Bypass button.
 On the right side of the GUI there is a slider that controls the volume and a mute button.
