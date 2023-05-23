@@ -4,9 +4,9 @@ Homework #1
 Multi effect: Flanger - Wah Wah - Phaser
 
 Group composition:
-Brusca Alfredo 10936149
-Marazzi Alice 10625416
-Pomarico Riccardo 10661306
+<br> Brusca Alfredo 10936149
+<br> Marazzi Alice 10625416
+<br> Pomarico Riccardo 10661306
 
 <img width="1462" alt="Screenshot 2023-05-23 alle 12 35 00" src="https://github.com/polimi-cmls-23/group4-hw-SC-DrumTeam/assets/79704727/6f15dff0-f142-4987-bd3c-25061f5e8bb4">
 
