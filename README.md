@@ -1,7 +1,7 @@
 # group4-hw-SC-DrumTeam
 
 Homework #1
-Multi effect: Flanger - Wah Wah - Phaser
+<br> Multi effect: Flanger - Wah Wah - Phaser
 
 Group composition:
 <br> Brusca Alfredo 10936149
