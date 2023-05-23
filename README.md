@@ -10,7 +10,7 @@ Group composition:
 
 <img width="1462" alt="Screenshot 2023-05-23 alle 12 35 00" src="https://github.com/polimi-cmls-23/group4-hw-SC-DrumTeam/assets/79704727/6f15dff0-f142-4987-bd3c-25061f5e8bb4">
 
-The goal of this project is to implement a multi effect able to manage Flanger, Wah Wah and Phaser effects and an interface to control it. We used a SynthDef for each effect, let’s analyze them one by one.
+The goal of this project is to implement a multi effect able to manage Flanger, Wah Wah and Phaser effects and an interface to control it.
 
 The code applies the effects on a wav file but the user can use their own input devices by uncommenting the line:
 
